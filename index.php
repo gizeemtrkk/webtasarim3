@@ -33,50 +33,50 @@ include("yonetici/head.php");
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-key btn-danger"></i></div>
                                             <div class="notify-text">
-                                                <p>You have Changed Your Password</p>
-                                                <span>Just Now</span>
+                                                <p>Şifrenizi Değiştirdiniz...</p>
+                                                <span>Şu Anda</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-comments-smiley btn-info"></i></div>
                                             <div class="notify-text">
                                                 <p>New Commetns On Post</p>
-                                                <span>30 Seconds ago</span>
+                                                <span>30 saniye önce</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-key btn-primary"></i></div>
                                             <div class="notify-text">
                                                 <p>Some special like you</p>
-                                                <span>Just Now</span>
+                                                <span>Şu anda</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-comments-smiley btn-info"></i></div>
                                             <div class="notify-text">
                                                 <p>New Commetns On Post</p>
-                                                <span>30 Seconds ago</span>
+                                                <span>30 saniye önce</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-key btn-primary"></i></div>
                                             <div class="notify-text">
                                                 <p>Some special like you</p>
-                                                <span>Just Now</span>
+                                                <span>Şu anda</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-key btn-danger"></i></div>
                                             <div class="notify-text">
-                                                <p>You have Changed Your Password</p>
-                                                <span>Just Now</span>
+                                                <p>Şifreyi Değiştirdiniz/p>
+                                                <span>Şu anda</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-key btn-danger"></i></div>
                                             <div class="notify-text">
-                                                <p>You have Changed Your Password</p>
-                                                <span>Just Now</span>
+                                                <p>Şifrenizi Değiştirdiniz</p>
+                                                <span>Şu anda</span>
                                             </div>
                                         </a>
                                     </div>
