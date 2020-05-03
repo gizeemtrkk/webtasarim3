@@ -20,33 +20,33 @@
                                             <tbody>
                                                 <tr>
                                                     <th scope="row">1</th>
-                                                    <td>Mark</td>
-                                                    <td>09 / 07 / 2018</td>
-                                                    <td>$120</td>
+                                                    <td>*********</td>
+                                                    <td>04 / 04 / 2020</td>
+                                                    <td>**********@gmail.com</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
-                                                    <th scope="row">1</th>
-                                                    <td>jone</td>
-                                                    <td>09 / 07 / 2018</td>
-                                                    <td>$150</td>
+                                                    <th scope="row">2</th>
+                                                     <td>*********</td>
+                                                    <td>04 / 04 / 2020</td>
+                                                    <td>**********@gmail.com</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
-                                                    <th scope="row">1</th>
-                                                    <td>Mark</td>
-                                                    <td>09 / 07 / 2018</td>
-                                                    <td>$120</td>
+                                                    <th scope="row">3</th>
+                                                     <td>*********</td>
+                                                    <td>04 / 04 / 2020</td>
+                                                    <td>**********@gmail.com</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
-                                                    <th scope="row">1</th>
-                                                    <td>jone</td>
-                                                    <td>09 / 07 / 2018</td>
-                                                    <td>$150</td>
+                                                    <th scope="row">4</th>
+                                                     <td>*********</td>
+                                                    <td>04 / 04 / 2020</td>
+                                                    <td>**********@gmail.com</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>

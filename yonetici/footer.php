@@ -1,5 +1,5 @@
 <footer>
             <div class="footer-area">
-                <p>© Copyright 2018. All right reserved. Template by <a href="https://colorlib.com/wp/">Colorlib</a>.</p>
+                <p>© Copyright 2020. Bütün hakları saklıdır. <a href="https://colorlib.com/wp/">25 Litre</a>.</p>
             </div>
         </footer>

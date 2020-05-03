@@ -19,33 +19,41 @@
                                             <tbody>
                                                 <tr>
                                                     <th scope="row">1</th>
-                                                    <td>Mark</td>
-                                                    <td>09 / 07 / 2018</td>
-                                                    <td>$120</td>
+                                                    <td>Gizem Türk</td>
+                                                    <td>gzmtrk123@gmail.com</td>
+                                                    <td>0531 498 28 00</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
                                                     <th scope="row">1</th>
-                                                    <td>jone</td>
-                                                    <td>09 / 07 / 2018</td>
-                                                    <td>$150</td>
+                                                    <td>Gürkan Gerçek</td>
+                                                    <td>grkngercek@gmail.com</td>
+                                                    <td>0534 391 27 75</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
                                                     <th scope="row">1</th>
-                                                    <td>Mark</td>
-                                                    <td>09 / 07 / 2018</td>
-                                                    <td>$120</td>
+                                                    <td>Gürolcan Altaş</td>
+                                                    <td>grlcnalts@gmail.com</td>
+                                                    <td>05310817665</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
                                                     <th scope="row">1</th>
-                                                    <td>jone</td>
-                                                    <td>09 / 07 / 2018</td>
-                                                    <td>$150</td>
+                                                    <td>Berkay Çağın Kuru</td>
+                                                    <td>brkycgn@gmail.com</td>
+                                                    <td>05412646042</td>
+                                                    <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
+                                                    <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">1</th>
+                                                    <td>Mehmet Batuhan Gülümser</td>
+                                                    <td>********gmail.com</td>
+                                                    <td>05319180316</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>

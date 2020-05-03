@@ -1,5 +1,5 @@
 <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Message</a>
-                                <a class="dropdown-item" href="#">Settings</a>
-                                <a class="dropdown-item" href="#">Log Out</a>
+                                <a class="dropdown-item" href="#">Mesaj</a>
+                                <a class="dropdown-item" href="#">Ayarlar</a>
+                                <a class="dropdown-item" href="#">Çıkış Yap</a>
                             </div>
