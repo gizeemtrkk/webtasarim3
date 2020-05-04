@@ -28,7 +28,7 @@ include("yonetici/head.php");
                                     <span>2</span>
                                 </i>
                                 <div class="dropdown-menu bell-notify-box notify-box">
-                                    <span class="notify-title">You have 3 new notifications <a href="#">view all</a></span>
+                                    <span class="notify-title">3 Yeni bildiriminiz var <a href="#">Hepsini Gör</a></span>
                                     <div class="nofity-list">
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-key btn-danger"></i></div>
@@ -85,7 +85,7 @@ include("yonetici/head.php");
                             <li class="dropdown">
                                 <i class="fa fa-envelope-o dropdown-toggle" data-toggle="dropdown"><span>3</span></i>
                                 <div class="dropdown-menu notify-box nt-enveloper-box">
-                                    <span class="notify-title">You have 3 new notifications <a href="#">view all</a></span>
+                                    <span class="notify-title">3 Yeni bildiriminiz var <a href="#">Hepsini Gör</a></span>
                                     <div class="nofity-list">
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb">
@@ -171,10 +171,10 @@ include("yonetici/head.php");
                 <div class="row align-items-center">
                     <div class="col-sm-6">
                         <div class="breadcrumbs-area clearfix">
-                            <h4 class="page-title pull-left">Dashboard</h4>
+                            <h4 class="page-title pull-left">Gösterge Paneli</h4>
                             <ul class="breadcrumbs pull-left">
-                                <li><a href="index.html">Home</a></li>
-                                <li><span>Dashboard</span></li>
+                                <li><a href="index.html">Anasayfa</a></li>
+                                <li><span>Gösterge Paneli</span></li>
                             </ul>
                         </div>
                     </div>
@@ -182,7 +182,7 @@ include("yonetici/head.php");
                         <div class="user-profile pull-right">
                             <!--Profil resmi ekleme kısmı  -->
                             <!-- <img class="avatar user-thumb" src="assets/images/author/avatar.png" alt="avatar"> -->
-                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">Kumkum Rai <i class="fa fa-angle-down"></i></h4>
+                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">Yönetici <i class="fa fa-angle-down"></i></h4>
                             <?php
                                 include("yonetici/dropdownuser.php"); 
                             ?>

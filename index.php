@@ -28,7 +28,7 @@ include("yonetici/head.php");
                                     <span>2</span>
                                 </i>
                                 <div class="dropdown-menu bell-notify-box notify-box">
-                                    <span class="notify-title">You have 3 new notifications <a href="#">view all</a></span>
+                                    <span class="notify-title">3 Yeni bildiriminiz var<a href="#">Hepsini Gör</a></span>
                                     <div class="nofity-list">
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-key btn-danger"></i></div>
@@ -85,16 +85,16 @@ include("yonetici/head.php");
                             <li class="dropdown">
                                 <i class="fa fa-envelope-o dropdown-toggle" data-toggle="dropdown"><span>3</span></i>
                                 <div class="dropdown-menu notify-box nt-enveloper-box">
-                                    <span class="notify-title">You have 3 new notifications <a href="#">view all</a></span>
+                                    <span class="notify-title">3 Yeni bildiriminiz var<a href="#">Hepsini Gör</a></span>
                                     <div class="nofity-list">
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb">
                                                 <img src="assets/images/author/author-img1.jpg" alt="image">
                                             </div>
                                             <div class="notify-text">
-                                                <p>Aglae Mayer</p>
-                                                <span class="msg">Hey I am waiting for you...</span>
-                                                <span>3:15 PM</span>
+                                                <p>Ahmet Ateş</p>
+                                                <span class="msg">Ne kadar su harcadığımı görmem müthiş bir şey...</span>
+                                                <span>12:58</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
@@ -102,9 +102,9 @@ include("yonetici/head.php");
                                                 <img src="assets/images/author/author-img2.jpg" alt="image">
                                             </div>
                                             <div class="notify-text">
-                                                <p>Aglae Mayer</p>
-                                                <span class="msg">When you can connect with me...</span>
-                                                <span>3:15 PM</span>
+                                                <p>Melek Terzi</p>
+                                                <span class="msg">Daha az su harcamaya başladık teşekkürler...</span>
+                                                <span>12:58</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
@@ -112,9 +112,9 @@ include("yonetici/head.php");
                                                 <img src="assets/images/author/author-img3.jpg" alt="image">
                                             </div>
                                             <div class="notify-text">
-                                                <p>Aglae Mayer</p>
-                                                <span class="msg">I missed you so much...</span>
-                                                <span>3:15 PM</span>
+                                                <p>Ezgi Eyüp</p>
+                                                <span class="msg">Muhteşem bir site...</span>
+                                                <span>12:58</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
@@ -122,9 +122,9 @@ include("yonetici/head.php");
                                                 <img src="assets/images/author/author-img4.jpg" alt="image">
                                             </div>
                                             <div class="notify-text">
-                                                <p>Aglae Mayer</p>
-                                                <span class="msg">Your product is completely Ready...</span>
-                                                <span>3:15 PM</span>
+                                                <p>Eren Görgü</p>
+                                                <span class="msg">Efsanesiniz 25 litre...</span>
+                                                <span>13:15</span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
@@ -132,8 +132,8 @@ include("yonetici/head.php");
                                                 <img src="assets/images/author/author-img2.jpg" alt="image">
                                             </div>
                                             <div class="notify-text">
-                                                <p>Aglae Mayer</p>
-                                                <span class="msg">Hey I am waiting for you...</span>
+                                                <p>Esra Çalan</p>
+                                                <span class="msg">Böyle düşünceli insanlar görmek çok güzel...</span>
                                                 <span>3:15 PM</span>
                                             </div>
                                         </a>
@@ -142,9 +142,9 @@ include("yonetici/head.php");
                                                 <img src="assets/images/author/author-img1.jpg" alt="image">
                                             </div>
                                             <div class="notify-text">
-                                                <p>Aglae Mayer</p>
-                                                <span class="msg">Hey I am waiting for you...</span>
-                                                <span>3:15 PM</span>
+                                                <p>Ali Ağa</p>
+                                                <span class="msg">Tek kelime ile muhteşemsiniz...</span>
+                                                <span>23:15 </span>
                                             </div>
                                         </a>
                                         <a href="#" class="notify-item">
@@ -152,9 +152,9 @@ include("yonetici/head.php");
                                                 <img src="assets/images/author/author-img3.jpg" alt="image">
                                             </div>
                                             <div class="notify-text">
-                                                <p>Aglae Mayer</p>
-                                                <span class="msg">Hey I am waiting for you...</span>
-                                                <span>3:15 PM</span>
+                                                <p>Sıla Genç</p>
+                                                <span class="msg">Süper bir site...</span>
+                                                <span>11:15 </span>
                                             </div>
                                         </a>
                                     </div>
@@ -181,7 +181,7 @@ include("yonetici/head.php");
                         <div class="user-profile pull-right">
                             <!--Profil resmi ekleme kısmı  -->
                             <!-- <img class="avatar user-thumb" src="assets/images/author/avatar.png" alt="avatar"> -->
-                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">Kumkum Rai <i class="fa fa-angle-down"></i></h4>
+                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">Yönetici <i class="fa fa-angle-down"></i></h4>
                             <?php
                                 include("yonetici/dropdownuser.php"); 
                             ?>

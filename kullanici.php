@@ -28,7 +28,7 @@ include("yonetici/head.php");
                                     <span>2</span>
                                 </i>
                                 <div class="dropdown-menu bell-notify-box notify-box">
-                                    <span class="notify-title">3 Yeni bildirim var... <a href="#">Hepsini Gör...</a></span>
+                                    <span class="notify-title">3 Yeni bildirim var <a href="#">Hepsini Gör</a></span>
                                     <div class="nofity-list">
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb"><i class="ti-key btn-danger"></i></div>
