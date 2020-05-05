@@ -86,6 +86,7 @@ include("yonetici/head.php");
                                 <i class="fa fa-envelope-o dropdown-toggle" data-toggle="dropdown"><span>3</span></i>
                                 <div class="dropdown-menu notify-box nt-enveloper-box">
                                     <span class="notify-title">3 Yeni bildiriminiz var <a href="#">Hepsini Gör</a></span>
+                                    <div class="nofity-list">
                                         <a href="#" class="notify-item">
                                             <div class="notify-thumb">
                                                 <img src="assets/images/author/author-img1.jpg" alt="image">
@@ -181,7 +182,7 @@ include("yonetici/head.php");
                         <div class="user-profile pull-right">
                             <!--Profil resmi ekleme kısmı  -->
                             <!-- <img class="avatar user-thumb" src="assets/images/author/avatar.png" alt="avatar"> -->
-                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">Yönetici<i class="fa fa-angle-down"></i></h4>
+                            <h4 class="user-name dropdown-toggle" data-toggle="dropdown">Yönetici  <i class="fa fa-angle-down"></i></h4>
                             <?php
                                 include("yonetici/dropdownuser.php"); 
                             ?>

@@ -23,10 +23,10 @@
                                                     <td>gzmtrk123@gmail.com</td>
                                                     <td>0531 498 28 00</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
-                                                    <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
+                                                    <td><button type="button" class="btn btn-danger mb-1" >Sil</button></td>
                                                 </tr>
                                                 <tr>
-                                                    <th scope="row">1</th>
+                                                    <th scope="row">2</th>
                                                     <td>Gürkan Gerçek</td>
                                                     <td>grkngercek@gmail.com</td>
                                                     <td>0534 391 27 75</td>
@@ -34,7 +34,7 @@
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
-                                                    <th scope="row">1</th>
+                                                    <th scope="row">3</th>
                                                     <td>Gürolcan Altaş</td>
                                                     <td>grlcnalts@gmail.com</td>
                                                     <td>05310817665</td>
@@ -42,7 +42,7 @@
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
-                                                    <th scope="row">1</th>
+                                                    <th scope="row">4</th>
                                                     <td>Berkay Çağın Kuru</td>
                                                     <td>brkycgn@gmail.com</td>
                                                     <td>05412646042</td>
@@ -50,13 +50,13 @@
                                                     <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
                                                 </tr>
                                                 <tr>
-                                                    <th scope="row">1</th>
+                                                    <th scope="row">5</th>
                                                     <td>Mehmet Batuhan Gülümser</td>
                                                     <td>********gmail.com</td>
                                                     <td>05319180316</td>
                                                     <td><button type="button" class="btn btn-primary mb-1">Seç</button></td>
-                                                    <td><button type="button" class="btn btn-danger mb-1">Sil</button></td>
-                                                </tr>
+                                                    <td><button type="button" class="btn btn-danger mb-1" >Sil</button></td>
+                                        </tr>
                                             </tbody>
                                         </table>
                                     </div>
@@ -84,11 +84,11 @@
                                          </fieldset>
                                         <div class="form-group">
                                             <label for="example-text-input" class="col-form-label">Ad</label>
-                                            <input class="form-control" type="text" placeholder="" id="example-text-input">
+                                            <input class="form-control" type="text" placeholder="" id="example-text-input" name="y_adi" >
                                         </div>
                                         <div class="form-group">
                                             <label for="example-text-input" class="col-form-label">Soyad</label>
-                                            <input class="form-control" type="text" placeholder="" id="example-text-input">
+                                            <input class="form-control" type="text" placeholder="" id="example-text-input" name="y_soyadi">
                                         </div>
                                         <div class="form-group">
                                             <label for="example-email-input" class="col-form-label">Email</label>
@@ -107,3 +107,45 @@
                                     </div>
                                 </div>
                             </div>
+
+
+
+
+
+
+
+
+                            <!--yönetici silme-->
+        <?php
+        if (isset($_POST['sil']))
+{
+    
+    $tc=$_POST["tc"];
+    $y_adi=$_POST["y_adi"];
+
+    if($db)//bağlantı gerçekleşti mi?
+    {
+        echo "Veri tabanı bağlantısı başarılı !! <br>";
+    }
+
+
+    $sil = $db->exec("DELETE FROM ogrencikayit WHERE tc='$tc'"); //ekleme kodu
+
+
+    if($sil)
+
+    {
+
+       echo 'Kayıt Silindi.';
+
+    }
+    else
+
+    {
+
+        echo 'Silme işlemi Başarısız Olmuştur.';
+
+    }
+}
+     
+     ?>           
